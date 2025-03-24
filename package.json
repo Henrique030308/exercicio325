@@ -1,0 +1,25 @@
+{
+  "name": "exercicio325",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "grunt": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrique030308/exercicio325.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henrique030308/exercicio325/issues"
+  },
+  "homepage": "https://github.com/Henrique030308/exercicio325#readme",
+  "description": "",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "sass": "^1.86.0"
+  }
+}
