@@ -5,8 +5,20 @@
 }
 .container{
     display: flex;
+    height: 100vh;
+    background-color: #fff;
+}
+span{
+    font-size: 2rem;
+    color: #A052EF;
+}
+.logo{
+    display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: #eb2a2a;
+    background-color: #fff;
+    height: 3;
+    width: 5cm;
 }
+
+
