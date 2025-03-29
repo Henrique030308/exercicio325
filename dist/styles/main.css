@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.nav {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.cabeca {
+  background-color: #ffffff;
+  width: 100%;
+  height: 10%;
+}
+
+.logo {
+  background-color: #ffffff;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.logologo {
+  width: 50%;
+  justify-content: center;
+  text-align: center;
+  font-size: 2.3rem;
+}
+.logologo span {
+  font-size: 2.4rem;
+  color: #A052EF;
+}
+
+.menu {
+  background-color: #ffffff;
+  width: 3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.botao-menu {
+  background-color: #ffffff;
+  width: 3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-color: #ffffff;
+}
+
+.imagem-menu {
+  width: 80%;
+  height: 2.4rem;
+}
+
+.corpo {
+  background-color: #f80000;
+  width: 100%;
+  height: 78%;
+}
+
+.imagem1-corpo {
+  margin: 5rem 0rem 0rem 0rem;
+  width: 82%;
+  box-shadow: 70px -50px;
+  color: #A052EF;
+  border-radius: 0.6rem;
+}
+
+.img1-corpo {
+  width: 100%;
+  border-radius: 0.6rem;
+}
+
+.pe {
+  background-color: #A052EF;
+  width: 100%;
+  height: 45%;
+}
+
+.textoprin-pe {
+  margin: 0.7rem 1rem 2rem 1rem;
+}
+.textoprin-pe span {
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+.texto-pe1 {
+  color: #ffffff;
+  text-align: flex-start;
+  margin-left: 1rem;
+  margin: 0.7rem 1rem 1rem 1rem;
+}
+
+.texto-pe2 {
+  color: #ffffff;
+  height: 2rem;
+  text-align: flex-start;
+  margin-left: 1rem;
+  margin: 0.7rem 1rem 1rem 1rem;
+}
+
+.caixa-imagens-pe {
+  width: 100%;
+  height: 2rem;
+  background-color: #A052EF;
+  display: flex;
+  align-items: center;
+}
+
+.caixa1-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+  background-color: #A052EF;
+  margin: 1rem;
+}
+
+.insta-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+  background-color: #A052EF;
+  border: #A052EF;
+}
+
+.imagem1-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+}
+
+.caixa2-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+  background-color: #A052EF;
+  margin: 1rem;
+}
+
+.face-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+  background-color: #A052EF;
+  border: #A052EF;
+}
+
+.imagem2-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+}
+
+.caixa3-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+  background-color: #A052EF;
+  margin: 1rem;
+}
+
+.youtube-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+  background-color: #A052EF;
+  border: #A052EF;
+}
+
+.imagem3-pe {
+  width: 2.2rem;
+  height: 2.2rem;
+}
+
+/*# sourceMappingURL=main.css.map */
